@@ -1,0 +1,9 @@
+venv
+__pycache__
+.git
+.gitignore
+.env
+audio
+*.pyc
+*.pyo
+*.pyd
