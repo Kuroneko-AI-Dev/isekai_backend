@@ -1,0 +1,26 @@
+# Environment
+.env
+
+# Firebase Admin Key
+firebase_admin_key.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Audio hasil generate
+backend/audio/
+
+# Build
+dist/
+build/
+
+# Cache
+.vscode/
