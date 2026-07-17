@@ -6,4 +6,8 @@ __pycache__
 audio
 *.pyc
 *.pyo
+<<<<<<< HEAD
 *.pyd
+=======
+*.pyd
+>>>>>>> 091f1d55b8e27f6ed39d6bad786adfdf386575ae
